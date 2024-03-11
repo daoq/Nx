@@ -3,6 +3,6 @@ function test:printx(text)
   print(text)
 end
 function test:testing()
-  print('hello from obfuscated script')
+  print('hello from github script')
 end
 return test
